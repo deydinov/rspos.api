@@ -23,7 +23,7 @@ curl -L \
 ##### Успешный ответ
 ```json lines
 {
-  "operatorId": int,            // Id сотрудника в формате RSPOS (целое положительное число)
+  "operatorId": "int",            // Id сотрудника в формате RSPOS (целое положительное число)
   "operatorGuid": "string"      // GUID сотрудника в форате 1С (GUID)
   "firstName": "string",        // Имя сотрудника
   "lastName": "string",         // Фамилия сотрудника (опционально)
