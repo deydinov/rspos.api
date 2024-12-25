@@ -40,4 +40,5 @@
 - [posinfo](endpoints/posinfo.md)
 - [auth](endpoints/auth.md)
 - [signon](endpoints/signon.md)
+- [signoff](endpoints/signoff.md)
 
