@@ -54,7 +54,7 @@ curl -L \
 
 ```json lines
 {
-  "errorCode": 5703,[signoff.md](signoff.md)
+  "errorCode": 5703,
   "errorMessage": "Другой кассир работает на текущей кассе",
   "result": false
 }
