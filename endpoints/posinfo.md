@@ -1,6 +1,6 @@
 # Конечная точка /posinfo
 
-Используется для инициализации RSPOS.
+Используется для инициализации RSPOS при старте или после перезагрузки
 
 #### RSPOS -> POS
 
@@ -45,8 +45,7 @@ curl -L \
     "lastName": "Иванова",
     "middleName": "Петровна",
     "inn": "000000000000",
-    "authUuid": "2a1ce4fe-23e5-17a4-bfe4-09a36ebde1c5",
-    "canAuthorize": false
+    "authUuid": "2a1ce4fe-23e5-17a4-bfe4-09a36ebde1c5"
   },
   "result": true
 }
